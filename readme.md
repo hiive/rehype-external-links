@@ -10,6 +10,9 @@
 
 **[rehype][]** plugin to add `rel` (and `target`) to external links.
 
+Modified to allow content processing for all URLs whether external or not.
+`rel`, `target` and
+
 ## Contents
 
 *   [What is this?](#what-is-this)
